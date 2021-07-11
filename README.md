@@ -1,6 +1,5 @@
 # `go-triangulate`
-[![Go Report Card](https://goreportcard.com/badge/github.com/steven-mathew/go-triangulate)](https://goreportcard.com/report/github.com/steven-mathew/go-triangulate) [![](https://godoc.org/github.com/steven-mathew/go-triangulate?status.svg)](http://godoc.org/github.com/steven-mathew/go-triangulate)
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/steven-mathew/go-triangulate)](https://goreportcard.com/report/github.com/steven-mathew/go-triangulate)
 
 `go-triangulate` uses the technique covered in [Triangulation by Ear Clipping](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf).
 
