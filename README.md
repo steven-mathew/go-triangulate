@@ -5,7 +5,7 @@
 
 A port of [`triangulate`](https://github.com/ekzhang/triangulate) to golang and wasm.
 
-## `go-triangulate`
+## Running `go-triangulate`
 ```
 TODO
 ```
