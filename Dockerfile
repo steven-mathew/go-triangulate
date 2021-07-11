@@ -11,7 +11,7 @@ WORKDIR /app/src
 
 # Copy dep files
 COPY go.mod .
-# COPY go.sum .
+COPY go.sum .
 
 # Install dependencies
 RUN go mod download
