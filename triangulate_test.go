@@ -20,7 +20,7 @@ func TestCcw(t *testing.T) {
 		y: 4,
 	}
 
-	if ans := ccw(a, b, c); ans == 0 {
+	if ans := Ccw(a, b, c); ans == 0 {
 		t.Log("wrong")
 		t.Fail()
 	}
