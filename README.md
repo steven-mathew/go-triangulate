@@ -7,6 +7,12 @@ A port of [`triangulate`](https://github.com/ekzhang/triangulate) to golang and 
 
 ## Running `go-triangulate`
 ```
+go run server.go
+GOARCH=wasm GOOS=js go build -o lib.wasm main.go
+```
+
+## Docker
+```
 TODO
 ```
 
