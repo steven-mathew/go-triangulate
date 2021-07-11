@@ -6,7 +6,7 @@
 A port of [`triangulate`](https://github.com/ekzhang/triangulate) to golang and wasm.
 
 ## Running `go-triangulate`
-```
+```bash
 go run server.go
 GOARCH=wasm GOOS=js go build -o lib.wasm main.go
 ```
