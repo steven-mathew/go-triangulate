@@ -1,4 +1,4 @@
-# `go-triangulate`
+# `go-triangulate` (WIP)
 [![License][License-Image]][License-URL]
 [![Go Report Card][GoReportCard-Image]][GoReportCard-URL]
 
